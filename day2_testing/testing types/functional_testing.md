@@ -1,7 +1,7 @@
 
 ---
 
-# ✅ **Functional Test Cases
+# ✅Functional Test Cases
 
 ---
 

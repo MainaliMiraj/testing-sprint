@@ -1,6 +1,6 @@
 
 
-# ✅ **Negative Test Cases (Copy-Ready, Professional Format)**
+# ✅Negative Test Cases
 
 **Definition:** Ensures the system gracefully handles invalid, unexpected, or malicious inputs without crashing, exposing vulnerabilities, or leaking sensitive information.
 

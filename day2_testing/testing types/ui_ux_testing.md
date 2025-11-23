@@ -1,6 +1,6 @@
----
 
-# ✅ **UI/UX Test Cases**
+
+# ✅UI/UX Test Cases
 
 **Definition:** Ensures the interface is visually consistent, readable, accessible, responsive, and behaves according to UX expectations.
 
