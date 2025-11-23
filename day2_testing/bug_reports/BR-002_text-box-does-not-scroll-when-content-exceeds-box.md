@@ -1,5 +1,7 @@
 # BR-002 Text box does not scroll when content exceeds box
 
+Jira bug template
+
 - Summary: Text box does not scroll when content exceeds box
 - Environment: Brave 112.0 on macOS
 - Severity: Medium
