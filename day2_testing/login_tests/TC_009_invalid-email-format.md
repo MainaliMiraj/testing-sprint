@@ -1,13 +1,17 @@
 # TC_009 Invalid email format
 
+- Summary: Invalid email format
 - Module: Login
 - Preconditions: On login page
 - Priority: High
 - Type: Functional
 - Status: Pass
+- Test Data: N/A
 
 ## Steps
-Enter invalid email format; enter valid password; submit.
+1. Enter invalid email format
+2. Enter valid password
+3. Submit
 
-## Expected
+## Expected Result
 Error message for invalid email format.

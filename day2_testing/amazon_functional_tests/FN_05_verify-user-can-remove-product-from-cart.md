@@ -1,12 +1,16 @@
 # FN_05 Verify user can remove product from cart
 
+- Summary: Verify user can remove product from cart
 - Module: Cart
 - Preconditions: Cart has at least one item
 - Priority: High
 - Type: Functional
+- Status: Not Run
+- Test Data: N/A
 
 ## Steps
-Open cart; click remove/delete on an item.
+1. Open cart
+2. Click remove/delete on an item
 
-## Expected
+## Expected Result
 Item removed; totals update correctly.

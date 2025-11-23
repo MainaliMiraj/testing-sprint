@@ -1,13 +1,17 @@
 # TC_017 Leading/trailing spaces in email
 
+- Summary: Leading/trailing spaces in email
 - Module: Login
 - Preconditions: On login page
 - Priority: High
 - Type: Functional
 - Status: Pass
+- Test Data: N/A
 
 ## Steps
-Enter email with spaces around it; enter valid password; submit.
+1. Enter email with spaces around it
+2. Enter valid password
+3. Submit
 
-## Expected
+## Expected Result
 Error for invalid email format.

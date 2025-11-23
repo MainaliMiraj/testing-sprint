@@ -1,13 +1,17 @@
 # TC_016 Special characters in email
 
+- Summary: Special characters in email
 - Module: Login
 - Preconditions: On login page
 - Priority: Medium
 - Type: Functional
 - Status: Pass
+- Test Data: N/A
 
 ## Steps
-Enter email with unsupported special chars; valid password; submit.
+1. Enter email with unsupported special chars
+2. Valid password
+3. Submit
 
-## Expected
+## Expected Result
 Error for invalid email format.

@@ -1,13 +1,16 @@
 # TC_003 Login using Enter key
 
+- Summary: Login using Enter key
 - Module: Login
 - Preconditions: Registered user on login page
 - Priority: High
 - Type: Functional
 - Status: Pass
+- Test Data: N/A
 
 ## Steps
-Enter valid credentials; press Enter instead of clicking Login.
+1. Enter valid credentials
+2. Press Enter instead of clicking Login
 
-## Expected
+## Expected Result
 Login succeeds and user reaches dashboard.
