@@ -1,4 +1,4 @@
-\*/
+##
 Tests in this flle:
 Boundary tests (min character, max character)
 
@@ -19,7 +19,6 @@ UI tests (button disabled? field placeholders?)
 Remember Me functionality
 
 Page navigation tests
-\*/
 
 
 ---
