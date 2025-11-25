@@ -19,7 +19,7 @@ Response body’s firstname and lastname match the request body.
 Test ID: API_TC_02
 Title: Verify booking details for a valid booking ID
 Preconditions:
-A booking exists with known ID (add:2913 as booking ID).
+A booking exists with known ID ().
 Steps:
 Send GET request to https://restful-booker.herokuapp.com/booking/{bookingid}.
 Use the bookingid created in TC_01.
